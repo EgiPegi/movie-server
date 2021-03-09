@@ -1,0 +1,124 @@
+{
+    "top": [
+        {
+            "id": 1,
+            "title": " Gisaengchung (2019)",
+            "year": 2019,
+            "rate": 8.6,
+            "genre": "Comedy, Drama, Thriller",
+            "Director": " Bong Joon Ho",
+            "stars": "Kang-ho Song, Lee Sun-kyun, Yeo-jeong Cho, Choi Woo-sik",
+            "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+            "image": "parasite.jpg",
+            "link": "https://play.google.com/store/movies/details/Parasite?id=041577100D0CB2CFMV"
+        },
+        {
+            "id": 2,
+            "title": "Avengers: Endgame (2019)",
+            "year": 2019,
+            "rate": 8.4,
+            "genre": " Action, Adventure, Drama ",
+            "Director": "Anthony Russo, Joe Russo ",
+            "stars": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+            "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "image": "Avengers-Endgame.jpg",
+            "link": "https://play.google.com/store/movies/details/Marvel_Studios_Avengers_Endgame?id=6GLFcG_m7gA"
+        },
+        {
+            "id": 3,
+            "title": "Joker (2019)",
+            "year": 2019,
+            "rate": 8.4,
+            "genre": " Crime, Drama, Thriller ",
+            "Director": "Todd Phillips",
+            "stars": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy",
+            "synopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+            "image": "joker.jpg",
+            "link": "https://play.google.com/store/movies/details/Joker?id=4jBDebTWMzA.P"
+        },
+        {
+            "id": 4,
+            "title": "Toy Story 4 (2019)",
+            "year": 2019,
+            "rate": 8.4,
+            "genre": " Animation, Adventure, Comedy",
+            "Director": "Josh Cooley",
+            "stars": "Tom Hanks, Tim Allen, Annie Potts, Tony Hale",
+            "synopsis": "When a new toy called 'Forky' joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+            "image": "toy-story-4.jpeg",
+            "link": "https://play.google.com/store/movies/details/Toy_Story_4?id=DF5nWBwlaao"
+        },
+        {
+            "id": 5,
+            "title": "Once Upon a Time... in Hollywood (2019)",
+            "year": 2019,
+            "rate": 7.6,
+            "genre": "Comedy, Drama",
+            "Director": "Quentin Tarantino",
+            "stars": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",
+            "synopsis": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+            "image": "Once Upon a Time... in Hollywood.jpg",
+            "link": "https://play.google.com/store/movies/details/Once_upon_a_Time_In_Hollywood?id=_bnbaRSksjo"
+        },
+        {
+            "id": 6,
+            "title": "Spider-Man: Far from Home (2019)",
+            "year": 2019,
+            "rate": 7.5,
+            "genre": "Action, Adventure, Sci-Fi ",
+            "Director": "Jon Watts",
+            "stars": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei",
+            "synopsis": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+            "image": "Spider-Man-Far-from-Home.jpg",
+            "link": "https://play.google.com/store/movies/details/Spider_Man_Far_From_Home?id=7umHyfF-hPI.P"
+        },
+        {
+            "id": 7,
+            "title": "How to Train Your Dragon: The Hidden World (2019)",
+            "year": 2019,
+            "rate": 7.5,
+            "genre": "Animation, Action, Adventure",
+            "Director": "Dean DeBlois ",
+            "stars": "Jay Baruchel, America Ferrera, F. Murray Abraham, Cate Blanchett",
+            "synopsis": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek 'The Hidden World', a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+            "image": "how-to-train.jpg",
+            "link": "https://play.google.com/store/movies/details/How_to_Train_Your_Dragon_The_Hidden_World?id=ifWddPIwfMY"
+        },
+        {
+            "id": 8,
+            "title": "John Wick: Chapter 3 - Parabellum (2019)",
+            "year": 2019,
+            "rate": 7.4,
+            "genre": "Action, Crime, Thriller",
+            "Director": "Chad Stahelski",
+            "stars": "Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne",
+            "synopsis": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+            "image": "john-wick ch3.jpg",
+            "link": "https://play.google.com/store/movies/details/John_Wick_Chapter_3_Parabellum?id=CFBD897FD121FAF5MV"
+        },
+        {
+            "id": 9,
+            "title": "Rocketman (I) (2019)",
+            "year": 2019,
+            "rate": 7.3,
+            "genre": "Biography, Drama, Music ",
+            "Director": "Dexter Fletcher",
+            "stars": "Taron Egerton, Jamie Bell, Richard Madden, Bryce Dallas Howard",
+            "synopsis": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.",
+            "image": "rocketman.jpg",
+            "link": "https://play.google.com/store/movies/details/Rocketman?id=306216EC652CA9D1MV"
+        },
+        {
+            "id": 10,
+            "title": "Alita: Battle Angel (2019)",
+            "year": 2019,
+            "rate": 7.3,
+            "genre": "Action, Adventure, Sci-Fi",
+            "Director": "Robert Rodriguez",
+            "stars": "Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",
+            "synopsis": "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is..",
+            "image": "alita.jpg",
+            "link": "https://play.google.com/store/movies/details/Alita_Battle_Angel?id=FHmKK0Nx8xU"
+        }
+    ]
+}
